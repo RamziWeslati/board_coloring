@@ -1,4 +1,4 @@
-# particeep-scala-test
+# board_coloring 
 
 This repository holds mediaire python assignment.
 
